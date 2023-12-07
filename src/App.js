@@ -1,12 +1,12 @@
 import React, { Component } from 'react';
-import SimpleCard from './components/simplecard.jsx';
+import SimpleCard from './components/Simplecard.jsx';
 
 class App extends Component {
   render() {
     return (
-      <div>
+    <div>
         <SimpleCard
-          imageUrl="https://pin.it/HbLEcz5"
+          imageUrl="https://i.pinimg.com/564x/fd/b7/b5/fdb7b56d444babfb32665862cd5bf1a7.jpg" 
           title="THE MOST ANTICIPATED GAME RELEASE EVER?"
           description={
             <div>

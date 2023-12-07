@@ -1,15 +1,15 @@
 import React, { Component } from 'react';
-import Title from './title'; 
-import Description from './description'; 
-import Image from './images';
-import stylecss from './style.css';
+import Title from './Title'; 
+import Description from './Description'; 
+import Image from './Images';
+import './style.css';
 
 
 class Card extends Component {
   render() {
     return (
       <div className='container'>
-        <Image url={this.props.imageUrl} />
+        <Image imageUrl={this.props.imageUrl} />
         <div className='text-container'>
           <Title text={this.props.title} />
           <Description text={this.props.description} />
