@@ -60,6 +60,17 @@ This project is a simple React application that demonstrates the creation of a c
       ├── package.json
       ├── README.md
       └── ... (other project files)
+
+### Author 
+   - Edmond Anderson
+
+### Acknowledgement
+   - This project was created as part of my codetrain assignment.
+   - Inspiration: [Codetrain Handout, Rockstar Games, EFTM]
+
+### Screenshot
+   <img width="948" alt="image" src="https://github.com/e-mond/react-simple-card/assets/126099833/9b31b739-f583-4dfd-b548-f344d2dc7221">
+
       
          
 
